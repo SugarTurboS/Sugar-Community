@@ -7,11 +7,14 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/SugarTurboS/issues">
+  <a href="https://github.com/SugarTurboS/Sugar-Community/issues">
     <img src="https://img.shields.io/badge/面向-开发者-orange.svg" />
   </a>
   <a href="https://github.com/SugarTurboS/Blogs">
     <img src="https://img.shields.io/badge/开源-博客-198fff.svg" />
+  </a>
+  <a href="https://juejin.im/user/3526889001458910">
+    <img src="https://img.shields.io/badge/掘金-苏格团队-35d19b.svg" />
   </a>
   <a href="https://github.com/SugarTurboS">
     <img src="https://img.shields.io/badge/welcome-加入我们-d15757.svg" />
